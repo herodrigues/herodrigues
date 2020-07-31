@@ -8,9 +8,7 @@ My other interests are data visualization, mathematics and music production!
 I'm usually on the web as **herodrigues**.<br>
 It stands for _he + rodrigues_ or _herinson + rodrigues_ or a bad pun with the word _hero_ + _rodrigues_.
 
-## How to find me <a href="https://github.com/sponsors/herodrigues"><img align="left" width="150" height="150" src="https://octodex.github.com/images/megacat.jpg"></a>
+## How to find me
 - 🌎 [herodrigues.me](https://herodrigues.me)
 - 📝 [Upwork](https://www.upwork.com/freelancers/~0198e6ab09ec56dbda) and [LinkedIn](https://www.linkedin.com/in/herinson/)
 - ⚠️ No profiles on social networks ([Jaron Lanier](https://www.youtube.com/watch?v=3J1MIDTi9h8)'s arguments)
-
-_Megacat by [@jasoncostello](https://github.com/jasoncostello)_
