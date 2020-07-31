@@ -1,16 +1,16 @@
-### Hi there 👋
+# Hey, I'm Herinson 👋
 
-<!--
-**herodrigues/herodrigues** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a developer who loves to contribute to open-source projects and bring more people into the programming world. Currently living in Brazil and working from home, my main projects are modern web applications (React/Vue/CSS/HTML/JS) and creation of dynamic and static PDFs (XML/XDP/JavaScript).<br>
+I'm also a member of [rcsoccersim](https://github.com/rcsoccersim/), an organization maintained by the RoboCup Soccer Simulation commitee. 
 
-Here are some ideas to get you started:
+My other interests are data visualization, mathematics and music production! 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm usually on the web as **herodrigues**.<br>
+It stands for _he + rodrigues_ or _herinson + rodrigues_ or a bad pun with the word _hero_ + _rodrigues_.
+
+## How to find me <a href="https://github.com/sponsors/herodrigues"><img align="left" width="150" height="150" src="https://octodex.github.com/images/megacat.jpg"></a>
+- 🌎 [herodrigues.me](https://herodrigues.me)
+- 📝 [Upwork](https://www.upwork.com/freelancers/~0198e6ab09ec56dbda) and [LinkedIn](https://www.linkedin.com/in/herinson/)
+- ⚠️ No profiles on social networks ([Jaron Lanier](https://www.youtube.com/watch?v=3J1MIDTi9h8)'s arguments)
+
+_Megacat by [@jasoncostello](https://github.com/jasoncostello)_
