@@ -6,7 +6,6 @@ I'm also a member of [rcsoccersim](https://github.com/rcsoccersim/), an organiza
 ## How to find me
 - 🌎 [herodrigues.me](https://herodrigues.me)
 - 📝 [Upwork](https://www.upwork.com/freelancers/~0198e6ab09ec56dbda) and [LinkedIn](https://www.linkedin.com/in/herinson/)
-- ⚠️ No profiles on social networks ([Jaron Lanier](https://www.youtube.com/watch?v=3J1MIDTi9h8)'s arguments)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=herodrigues&count_private=true&show_icons=true&theme=buefy" />
