@@ -4,7 +4,7 @@ I'm a developer who loves to contribute to open-source projects and bring more p
 I'm also a member of [rcsoccersim](https://github.com/rcsoccersim/), an organization maintained by the RoboCup Soccer Simulation commitee. 
 
 ## How to find me
-- 🌎 [herodrigues.me](https://herodrigues.me)
+- 🌎 [herodrigues.com](https://herodrigues.com)
 - 📝 [Upwork](https://www.upwork.com/freelancers/~0198e6ab09ec56dbda) and [LinkedIn](https://www.linkedin.com/in/herinson/)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
